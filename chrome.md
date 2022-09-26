@@ -90,7 +90,7 @@
 
 
 
-### Bilibili快捷键（注：全屏F快捷键与Vimium C冲突，先用暂停VC，再F全屏）：
+### Bilibili快捷键（注：全屏F快捷键与Vimium C冲突，先用`i`暂停VC，再F全屏）：
 
 `f`：视频全屏。
 
