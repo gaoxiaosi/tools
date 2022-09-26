@@ -1,7 +1,5 @@
 # Chrome技巧
 
-------
-
 ### 插件：
 
 [IGG谷歌学术助手](https://chrome.google.com/webstore/detail/igg%E8%B0%B7%E6%AD%8C%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B/ncldcbhpeplkfijdhnoepdgdnmjkckij)：专门用来访问谷歌网站。

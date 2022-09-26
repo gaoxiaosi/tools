@@ -1,7 +1,5 @@
 # VSCode使用技巧
 
-------
-
 ### 插件：
 
 [background](https://github.com/shalldie/vscode-background)：设置背景图片。

@@ -1,7 +1,5 @@
 # Mac软件
 
-------
-
 ### 免费软件：
 
 [Maipo](https://apps.apple.com/cn/app/maipo-for-%E5%BE%AE%E5%8D%9A/id789066512?mt=12)：`免费`。微博无广告、时间线展示。
